@@ -1,3 +1,3 @@
 # oppai-rs
 
-Rust bindings of Akatsuki's PP system.
+Rust bindings of the Fumosu rx/ap system. (may be not regularly updated)
